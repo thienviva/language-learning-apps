@@ -1,0 +1,5 @@
+- Giảm dung lượng ứng dụng, chuyển database sang đám mây
+- Có thông báo học tập, thêm bộ nhớ các từ đã học hoặc các bộ đã học
+- Thêm các chức năng trợ giúp, hỗ trợ và không gây nhàm chán
+- Sửa các lỗi mà người dùng có thể biết trước đáp án
+- Thêm các bảo mật cho ứng dụng như số điện thoại, yêu cầu xác thực email trước khi đăng ký
