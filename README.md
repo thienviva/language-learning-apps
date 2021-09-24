@@ -8,10 +8,3 @@
 * Phạm Duy Lập 
 * Võ Ngọc Phong
 
-### Hướng dẫn sử dụng
-## Preview
-:rocket: :rocket: :octocat:
-`Home`
-
-![](Image/Home.png)
-
