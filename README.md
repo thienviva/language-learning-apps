@@ -1,4 +1,4 @@
-## Đề tài môn Công nghệ phần mềm
+## Đề Tài Môn Học
 ### Tên đề tài: Ứng dụng học ngôn ngữ
 #### Nhóm thực hiện: Nhóm 5
 #### Người thực hiện:
